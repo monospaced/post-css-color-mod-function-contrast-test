@@ -1,0 +1,14 @@
+{
+  "author": "monospaced",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "post-css-color-mod-function-contrast-test",
+  "scripts": { "start": "node index.js" },
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "postcss": "^6.0.23",
+    "postcss-color-mod-function": "^2.4.2"
+  }
+}
